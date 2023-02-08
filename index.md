@@ -25,5 +25,26 @@ __Online courses__
 
 __Additional materials__
 1. [machinelearning.ru]([machinelearning.ru](http://www.machinelearning.ru/wiki/index.php?title=%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0)) - information resource dedicated to machine learning, pattern recognition and data mining.
-2. [Deep Learning Guide by YerevaNN.] (https://yerevann.com/a-guide-to-deep-learning/)
+2. [Deep Learning Guide by YerevaNN.](https://yerevann.com/a-guide-to-deep-learning/)
 ---
+
+
+# Python
+
+[Installation & Setup Guide.](https://realpython.com/installing-python/)
+
+[Official documentation.](https://www.python.org/doc/.)
+
+[A brief overview of the basis.](https://cs231n.github.io/python-numpy-tutorial/#python-basic)
+
+[Anaconda platform.](https://www.anaconda.com/products/distribution#download-section)
+
+[Jupyter Notebook for interactive computing.](http://math-hse.info/f/2018-19/py-polit/instruction_JN.pdf)
+
+[Online courses in Russian.](https://pythonworld.ru/kursy/free.html)
+
+[Interactive tutorial in English.](https://www.learnpython.org/)
+
+[Matplotlib tutorial.](https://matplotlib.org/2.0.2/users/pyplot_tutorial.html)
+
+[Pandas tutorial 1](https://disk.yandex.ru/i/pWwVPxvL3N9mX3), [tutorial 2.](https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html)
