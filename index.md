@@ -6,8 +6,7 @@ layout: page
 ---
 ---
 # Course materials
-[Lecture 1: Introduction to Machine Learning](https://www.canva.com/oauth/authorized/google?state=86ea843b-e9c9-4c37-822d-5d81b279e139&code=4%2F0AWtgzh7HShXBytoVkQIPq5QWjPNTiLoH7w-WVosAsZa3hXFt6CJOumPt3gjSnywDKmgstw&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=consent), [Questionnaire 1]()
-
+[Lecture 1: Introduction to Machine Learning](https://www.canva.com/design/DAFZyywIBs4/lYQSu5Yd7XcYtI4pWsSYSA/edit#), [Questionnaire 1]()
 
 
 
@@ -25,7 +24,6 @@ __Online courses__
 
 
 __Additional materials__
-1. [Machine learning](https://www.youtube.com/watch?v=SZkrxWhI5qM) - Konstantin Vorontsov's course, Yandex School of Data Analysis.
-2. [Machinelearning.ru](machinelearning.ru) - information resource dedicated to machine learning, pattern recognition and data mining.
-
+1. [machinelearning.ru]([machinelearning.ru](http://www.machinelearning.ru/wiki/index.php?title=%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0)) - information resource dedicated to machine learning, pattern recognition and data mining.
+2. [Deep Learning Guide by YerevaNN.] (https://yerevann.com/a-guide-to-deep-learning/)
 ---
