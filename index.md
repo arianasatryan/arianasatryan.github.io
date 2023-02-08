@@ -14,7 +14,7 @@ layout: page
 ---
 # Useful materials
 __Books__
-1. Pattern Recognition and Machine Learning - Bishop C. M, Springer, 2006
+1. [Pattern Recognition and Machine Learning - Bishop C. M, Springer, 2006](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 2. [Deep Learning-Ian Goodfellow, Yoshua Bengio, Aaron Courville, The MIT Press, 2016.](https://www.deeplearningbook.org/) 
 
 
@@ -24,7 +24,7 @@ __Online courses__
 
 
 __Additional materials__
-1. [machinelearning.ru]([machinelearning.ru](http://www.machinelearning.ru/wiki/index.php?title=%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0)) - information resource dedicated to machine learning, pattern recognition and data mining.
+1. [machinelearning.ru](http://www.machinelearning.ru/wiki/index.php?title=%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0) - information resource dedicated to machine learning, pattern recognition and data mining.
 2. [Deep Learning Guide by YerevaNN.](https://yerevann.com/a-guide-to-deep-learning/)
 ---
 
