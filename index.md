@@ -6,7 +6,7 @@ layout: page
 ---
 ---
 # Course materials
-[Lecture 1: Introduction to Machine Learning](https://www.canva.com/design/DAFZyywIBs4/lYQSu5Yd7XcYtI4pWsSYSA/edit#), [Questionnaire 1]()
+[Lecture 1: Introduction to Machine Learning](https://www.canva.com/design/DAFZyywIBs4/lYQSu5Yd7XcYtI4pWsSYSA/edit#), [Questionnaire 1](https://forms.gle/RVPDMWWpNnizzzEC7)
 
 
 
