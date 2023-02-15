@@ -4,12 +4,11 @@
 
 layout: page
 ---
+# [2023-results](https://docs.google.com/spreadsheets/d/1snLSCciMXLuuJafWM3GkSEu2PjA1IhLWD8OOi4GksvE/edit#gid=313556914)
+
 ---
 # Course materials
 [Lecture 1: Introduction to Machine Learning](https://www.canva.com/design/DAFZyywIBs4/lYQSu5Yd7XcYtI4pWsSYSA/edit#), [Questionnaire 1](https://forms.gle/RVPDMWWpNnizzzEC7)
-
-
-
 
 ---
 # Useful materials
