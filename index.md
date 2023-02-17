@@ -6,8 +6,8 @@ layout: page
 ---
 ---
 # Course materials
-[Lecture 1: Introduction to Machine Learning](https://www.canva.com/design/DAFZyywIBs4/lYQSu5Yd7XcYtI4pWsSYSA/edit#), [Questionnaire 1](https://forms.gle/RVPDMWWpNnizzzEC7)
-[Lecture 2: Linear regression. Loss function. Gradient Descent](https://www.canva.com/design/DAFac2mF_Kk/J2VEaoI2_yb53wswImK2rA/view?utm_content=DAFac2mF_Kk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[Lecture 1: Introduction to Machine Learning](https://www.canva.com/design/DAFZyywIBs4/lYQSu5Yd7XcYtI4pWsSYSA/edit#), [Questionnaire 1](https://forms.gle/RVPDMWWpNnizzzEC7) <br>
+[Lecture 2: Linear regression. Loss function. Gradient Descent](https://www.canva.com/design/DAFac2mF_Kk/J2VEaoI2_yb53wswImK2rA/view?utm_content=DAFac2mF_Kk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton), [Practice 1](https://docs.google.com/document/d/1s65bXZey098EKmtcMtBSpkU-41sCiagokP9pR3ijE_I/edit?usp=sharing)
 ---
 ## [2023-results](https://docs.google.com/spreadsheets/d/1snLSCciMXLuuJafWM3GkSEu2PjA1IhLWD8OOi4GksvE/edit#gid=313556914)
 ---
