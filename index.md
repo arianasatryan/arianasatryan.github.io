@@ -10,7 +10,7 @@ layout: page
 [Lecture 2: Linear regression. Loss function. Gradient Descent](https://www.canva.com/design/DAFac2mF_Kk/J2VEaoI2_yb53wswImK2rA/view?utm_content=DAFac2mF_Kk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton), [Questionnaire 2](https://docs.google.com/forms/d/e/1FAIpQLSfa1tYt9dXDelh46WP2w2n7i6MKOuAQS9svXrfiOiF6xTVcUQ/viewform), [Practice 1](https://colab.research.google.com/drive/1FQD_a32QINPLuOrgn6D1kBr5o3Q47-J4?usp=sharing)<br>
 [Lecture 3: Linear classification methods](https://www.canva.com/design/DAFa7zYZ3yY/7COyENii2bL4SRU1w_NSkw/view?utm_content=DAFa7zYZ3yY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)<br>
 [Lecture 4: Metrics. Over/underfitting. Data splitting. Regularization. Bias-dispersion dilemma](https://www.canva.com/design/DAFbempUgF8/m-Pad1QUfI6KTI6tJAdI4w/edit), [Questionnaire 3](https://docs.google.com/forms/d/1EA_uRnYNeKUFf6sEgS6ROa7GyrxP0c5SYhfxh8-RpaE/edit)<br>
-[Lecture 5: Feature representations](https://www.canva.com/design/DAFaLktUKWg/NemqnwOwJ6f_UFk8ZBa0zg/edit?utm_content=DAFaLktUKWg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) <br>
+[Lecture 5: Feature representations. Feature selection](https://www.canva.com/design/DAFaLktUKWg/NemqnwOwJ6f_UFk8ZBa0zg/edit?utm_content=DAFaLktUKWg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton), [Questionnaire 4](https://docs.google.com/forms/d/e/1FAIpQLSfrzgbsmjbOwHfDDE---AcS0cCRBF7FyQxVVenFITsyO51myg/viewform?usp=share_link), [Practice 2](https://colab.research.google.com/drive/10YLQgH-3E4adCTojFIBUD9WINjKwH8wV?usp=sharing) <br>
 
 ---
 ## [2023-results](https://docs.google.com/spreadsheets/d/1snLSCciMXLuuJafWM3GkSEu2PjA1IhLWD8OOi4GksvE/edit#gid=313556914)
