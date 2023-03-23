@@ -11,6 +11,7 @@ layout: page
 [Lecture 3: Linear classification methods](https://www.canva.com/design/DAFa7zYZ3yY/7COyENii2bL4SRU1w_NSkw/view?utm_content=DAFa7zYZ3yY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)<br>
 [Lecture 4: Metrics. Over/underfitting. Data splitting. Regularization. Bias-dispersion dilemma](https://www.canva.com/design/DAFbempUgF8/m-Pad1QUfI6KTI6tJAdI4w/edit), [Questionnaire 3](https://docs.google.com/forms/d/1EA_uRnYNeKUFf6sEgS6ROa7GyrxP0c5SYhfxh8-RpaE/edit)<br>
 [Lecture 5: Feature representations. Feature selection](https://www.canva.com/design/DAFaLktUKWg/NemqnwOwJ6f_UFk8ZBa0zg/edit?utm_content=DAFaLktUKWg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton), [Questionnaire 4](https://docs.google.com/forms/d/e/1FAIpQLSfrzgbsmjbOwHfDDE---AcS0cCRBF7FyQxVVenFITsyO51myg/viewform?usp=share_link), [Practice 2](https://colab.research.google.com/drive/10YLQgH-3E4adCTojFIBUD9WINjKwH8wV?usp=sharing) <br>
+[Lecture 6: SVM, KNN, Naive Bayes](https://www.canva.com/design/DAFd26FE4Oo/CZHTFPUACFHUkR0D904XIQ/view?utm_content=DAFd26FE4Oo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 ## [2023-results](https://docs.google.com/spreadsheets/d/1snLSCciMXLuuJafWM3GkSEu2PjA1IhLWD8OOi4GksvE/edit#gid=313556914)
