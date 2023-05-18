@@ -18,6 +18,7 @@ layout: page
 [Lecture 10: Deep learning. Transfer learning. Multitask learning](https://www.canva.com/design/DAFh2ZhNVa0/-2gfQzM-DGRRNzMjL8medg/view?utm_content=DAFh2ZhNVa0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)<br>
 [Lecture 11: Clustering](https://www.canva.com/design/DAFh56KSQLY/S-b-pap9OAXfGDlE-p5d6Q/view?utm_content=DAFh56KSQLY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)<br>
 [Lecture 12: Unsupervised learning. AutoEncoders. Word2Vec](https://www.canva.com/design/DAFiiylZl5Q/e9HktfeYaymELNLrtKu64Q/view?utm_content=DAFiiylZl5Q&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)<br>
+[Lecture 13: Convolutional neural network](https://www.canva.com/design/DAFhMXHjzRU/Tb1eKtMTos8CGfvzE9hTbA/view?utm_content=DAFhMXHjzRU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 ---
 ## [2023-results](https://docs.google.com/spreadsheets/d/1snLSCciMXLuuJafWM3GkSEu2PjA1IhLWD8OOi4GksvE/edit#gid=313556914)
