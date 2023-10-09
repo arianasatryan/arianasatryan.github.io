@@ -6,7 +6,7 @@ layout: page
 ---
 ---
 # Course materials
-[Lecture 1: Introduction to Machine Learning](https://www.canva.com/design/DAFZyywIBs4/lYQSu5Yd7XcYtI4pWsSYSA/edit#), [Questionnaire 1](https://forms.gle/RVPDMWWpNnizzzEC7) <br>
+[Lecture 1: Introduction to Machine Learning](https://www.canva.com/design/DAFnkMghrCI/kQdr-d9p6BUSJjAt-4OUTQ/edit#), [Questionnaire 1](https://forms.gle/RVPDMWWpNnizzzEC7) <br>
 [Lecture 2: Linear regression. Loss function. Gradient Descent](https://www.canva.com/design/DAFac2mF_Kk/J2VEaoI2_yb53wswImK2rA/view?utm_content=DAFac2mF_Kk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton), [Questionnaire 2](https://docs.google.com/forms/d/e/1FAIpQLSfa1tYt9dXDelh46WP2w2n7i6MKOuAQS9svXrfiOiF6xTVcUQ/viewform), [Practice 1](https://colab.research.google.com/drive/1FQD_a32QINPLuOrgn6D1kBr5o3Q47-J4?usp=sharing)<br>
 [Lecture 3: Linear classification methods](https://www.canva.com/design/DAFa7zYZ3yY/7COyENii2bL4SRU1w_NSkw/view?utm_content=DAFa7zYZ3yY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)<br>
 [Lecture 4: Metrics. Over/underfitting. Data splitting. Regularization. Bias-dispersion dilemma](https://www.canva.com/design/DAFbempUgF8/m-Pad1QUfI6KTI6tJAdI4w/edit), [Questionnaire 3](https://docs.google.com/forms/d/1EA_uRnYNeKUFf6sEgS6ROa7GyrxP0c5SYhfxh8-RpaE/edit)<br>
